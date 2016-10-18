@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConnectionString>
+  <DbConfiguration>
+    <Key>main</Key>
+    <Type>Share</Type>
+    <Address></Address>
+    <Port></Port>
+    <DbName></DbName>
+    <Account></Account>
+    <Password></Password>
+  </DbConfiguration>
+</ConnectionString>
